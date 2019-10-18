@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView Info;
     private Button Enter;
     private int counter = 5;
-aaaaaaaa
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
