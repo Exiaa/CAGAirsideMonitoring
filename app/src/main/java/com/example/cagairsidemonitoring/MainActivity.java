@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private Button Enter;
     private int counter = 5;
 //testtttttt
+    //test 2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
